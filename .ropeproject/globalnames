@@ -1,0 +1,6 @@
+€}q(Udjango_chat.routing]qUapplicationqaUdjango_chat.urls]qUurlpatternsqaUmessage_center.views]q(UindexqUroomqeUmessage_center.consumers]q	UMessageConsumerq
+aUmessage_center.routing]qUwebsocket_urlpatternsqaUmessage_center]Umessage_center.urls]qhaUdjango_chat]Ushutilq]q(UcopyfileqUignore_patternsqUcopytreeqUget_archive_formatsqUcopyfileobjqUregister_archive_formatqUcopymodeqUmake_archiveqUmoveqUunregister_archive_formatqUrmtreeqUErrorqUcopyqU	ExecErrorqUcopy2qUSpecialFileErrorqUcopystatq UWindowsErrorq!eUosq"]q#(Upopen4q$Uexecleq%Upopen3q&USEEK_CURq'Uspawnlpq(Uexeclpq)Uenvironq*Uspawnvpq+Uspawnlq,Uexecvpq-Umakedirsq.Ulinesepq/UP_WAITq0Uspawnvq1Uspawnveq2Uexecvpeq3Uunsetenvq4USEEK_SETq5Ugetenvq6Upopen2q7Uwalkq8Uspawnleq9Uexeclq:Unameq;USEEK_ENDq<Uspawnlpeq=U	P_NOWAITOq>UP_NOWAITq?U
+removedirsq@UrenamesqAUspawnvpeqBUexeclpeqCeUdjango_chat.wsgi]qDhaUdjango_chat.settings]qE(U	TEMPLATESqFUAUTH_PASSWORD_VALIDATORSqGUUSE_L10NqHUUSE_TZqIU
+MIDDLEWAREqJULANGUAGE_CODEqKU	TIME_ZONEqLU
+STATIC_URLqMUUSE_I18NqNUROOT_URLCONFqOUASGI_APPLICATIONqPUCHANNEL_LAYERSqQUWSGI_APPLICATIONqRU	DATABASESqSUDEBUGqTUALLOWED_HOSTSqUU
+SECRET_KEYqVUBASE_DIRqWUINSTALLED_APPSqXeu.
